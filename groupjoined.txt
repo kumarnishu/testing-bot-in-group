@@ -1,0 +1,15 @@
+GroupNotification {
+  id: {
+    fromMe: false,
+    remote: '120363149126205250@g.us',
+    id: '23917979611692370503',
+    participant: '917404293907@c.us',
+    _serialized: 'false_120363149126205250@g.us_23917979611692370503_917404293907@c.us'
+  },
+  body: '',
+  type: 'add',
+  timestamp: 1692370503,
+  chatId: '120363149126205250@g.us',
+  author: '917056943283@c.us',
+  recipientIds: [ '917404293907@c.us' ]
+}
